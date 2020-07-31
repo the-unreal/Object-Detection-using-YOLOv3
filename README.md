@@ -3,7 +3,7 @@
 Run the object_detection_yolov3.py file for real time object detection.
 
 The program has been referrenced and edited from the [Keras implementation of YOLOv3 by experiencor].
-The weights were downloaded and were converted to a Keras model in Weights_to_Model_converter.ipynb. The DarkNet architecture was used to convert the weights to a model.
+The weights were downloaded and were converted to a Keras model in Weights_to_Model_converter.ipynb.
 The program was run on Google colab.
 
 # Models
